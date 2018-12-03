@@ -1,0 +1,13 @@
+{
+  "name": "create-webpack-plugin",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "webpack --config webpack-config.js"
+  },
+  "dependencies": {
+    "webpack": "^4.26.1",
+    "webpack-cli": "^3.1.2"
+  }
+}
